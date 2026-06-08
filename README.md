@@ -48,3 +48,6 @@ AI-Resume-Builder/
 ## Author
 
 Developed as a learning project to explore AI integration with frontend web development.
+
+Live Demo:
+https://your-netlify-url.netlify.app
